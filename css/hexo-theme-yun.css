@@ -1260,6 +1260,9 @@ body::before {
   color: var(--hty-text-color);
   font-weight: 400;
 }
+.markdown-body * {
+  margin: 0px;
+}
 .post-nav {
   display: flex;
   justify-content: space-between;
